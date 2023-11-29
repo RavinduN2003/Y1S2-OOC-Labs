@@ -1,0 +1,5 @@
+﻿  Lab 5.cpp
+  ShapeArea.cpp
+C:\Users\Ravindu Nethmina\Desktop\Exercises\OOC\C++\Labs\Lab 5\Lab 5\ShapeArea.cpp(9,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Lab 5.vcxproj -> C:\Users\Ravindu Nethmina\Desktop\Exercises\OOC\C++\Labs\Lab 5\x64\Debug\Lab 5.exe
